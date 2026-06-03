@@ -2,8 +2,9 @@
   "providers": [
     {
       "name": "gemini",
-      "provider": "gemini",
+      "provider": "google",
       "models": ["gemini-3.5-flash"],
+      "apiKeyEnv": "GOOGLE_GENERATIVE_AI_API_KEY",
       "default": true
     }
   ]
