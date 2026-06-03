@@ -1,0 +1,10 @@
+{
+  "providers": [
+    {
+      "name": "gemini",
+      "provider": "gemini",
+      "models": ["gemini-3.5-flash"],
+      "default": true
+    }
+  ]
+}
